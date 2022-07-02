@@ -5,3 +5,5 @@ Personal informations
 - 🌱 I’m currently learning Write code based on oop
 - 💞️ I’m looking to collaborate on Java and Python projects
 - 📫 How to reach me | Telegram : https://t.me/Mrzyzz
+
+[![Murat's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheEyeGloaters)](https://github.com/anuraghazra/github-readme-stats)
