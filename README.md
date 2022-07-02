@@ -6,4 +6,4 @@ Personal informations
 - 💞️ I’m looking to collaborate on Java and Python projects
 - 📫 How to reach me | Telegram : https://t.me/Mrzyzz
 
-[![Murat's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheEyeGloaters)](https://github.com/immuratpost./github-readme-stats)
+[![Murat's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheEyeFloaters)](https://github.com/immuratpost./github-readme-stats)
